@@ -1,4 +1,6 @@
-# README
+# Subreddit Classification - Identifying Harmful Content
+
+**Profanity is not censored from data**
 
 In this series of notebooks, we explore the idea of potentially creating an automated NLP based model that can learn what constitutes behavior worthy of a subreddit ban and apply this to future posts and communities.  There are two goals in this project, though only the first is expected to succeed: 
 
